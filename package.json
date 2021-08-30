@@ -1,0 +1,23 @@
+{
+  "name": "remindme",
+  "version": "1.0.0",
+  "description": "Implementing the idea of reminding important dates like birthdates, Marriage anniversary and other special dates on mediums like E-mail and Whatsapp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeel-pathak/RemindME.git"
+  },
+  "author": "Zeel Rajkumar Pathak",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/zeel-pathak/RemindME/issues"
+  },
+  "homepage": "https://github.com/zeel-pathak/RemindME#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
